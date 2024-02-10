@@ -1,0 +1,17 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.header .ant-card-body{padding: 10px 0px;border-radius:0px}
+.ant-card-cover{margin: 0px !important;}
+.mt-2{margin-top: 15px}
+.pt-3{padding-top: 5px;}
+.py-3{padding-top: 30px !important;padding-bottom: 30px !important;}
+.commonCategories{padding: 6px 0 7px 0px;}
+.commonContainerFluid{max-width: 1600px;margin: 0 auto;padding: 0 20px;}
+.banner{overflow: hidden;}
+.text-center{text-align: center;}
+.slick-slide img{width: 100%;height: auto;}
+.rounded{border-radius:6px}
+.common_product_buttons{position: absolute;right: 15px;top: 15px;display: flex;}
+.bg-light{background-color: #f6f6f6;}
